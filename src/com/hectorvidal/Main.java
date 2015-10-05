@@ -11,4 +11,5 @@ public class Main {
         function(args[0]);
     }
 
+
 }
